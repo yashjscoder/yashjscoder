@@ -17,7 +17,7 @@ I'm a dynamic AI/ML Engineer and Data Science Specialist pursuing a B.Tech in Co
 - 🔭 **Current Focus:** AI-based VAPT (Vulnerability Assessment & Penetration Testing) pipeline development using **LLM agents (Groq API, LangChain)**.
 - 🌱 **Continuously Learning:** Next-Gen Computer Vision (YOLOv8, DINO-GPT4V) and Advanced AI Governance Frameworks.
 - 🤝 **Collaboration Interest:** Open Source projects focused on **AI Security** or **Healthcare AI** innovation.
-- 📧 **How to reach me:** [YOUR EMAIL HERE]
+
 
 ---
 
