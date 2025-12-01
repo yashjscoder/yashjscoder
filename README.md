@@ -18,7 +18,7 @@ I'm a dynamic AI/ML Engineer and Data Science Specialist pursuing a B.Tech in Co
 - 💼 **Professional Experience:** SDE in AI & Cyber Security at Rivedix & Mentor for GSSOC '25.
 - 🌱 **Continuously Learning:** Next-Gen Computer Vision (YOLOv8, DINO-GPT4V) and Advanced AI Governance Frameworks.
 - 🤝 **Collaboration Interest:** Open Source projects focused on **AI Security (LLM Guardrails)** or **Healthcare AI** innovation.
-- 📧 **How to reach me:** [YOUR EMAIL HERE]
+  
 
 ---
 
