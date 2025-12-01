@@ -12,45 +12,53 @@
   <img src="https://img.shields.io/badge/AI%2FML%20Engineer-Cybersecurity%20Focused-333333?style=for-the-badge&logo=python&logoColor=yellow&labelColor=222222" alt="AI/ML & Cybersecurity Engineer Badge"/>
 </p>
 
-I'm a dynamic AI/ML Engineer and Data Science Specialist pursuing a B.Tech in Computer Science, with deep expertise across the complete lifecycle of Deep Learning and Machine Learning models. My background is uniquely complemented by a strong foundation in **Offensive Security (Red Teaming)** and robust **Full-Stack development (NextJS, NestJS)**, ensuring that every solution is not only intelligent but also secure and scalable.
+I'm a dynamic AI/ML Engineer and Data Science Specialist pursuing a B.Tech in Computer Science, with deep expertise in the complete lifecycle of Deep Learning and Machine Learning models. My background is uniquely complemented by a strong foundation in **Offensive Security (Red Teaming)** and robust **Full-Stack development (NextJS, NestJS)**, ensuring every solution is not only intelligent but also secure and scalable.
 
 - 🔭 **Current Focus:** AI-based VAPT (Vulnerability Assessment & Penetration Testing) pipeline development using **LLM agents (Groq API, LangChain)**.
-- 💼 **Professional Experience:** SDE in AI & Cyber Security at Rivedix & Mentor for GSSOC '25.
 - 🌱 **Continuously Learning:** Next-Gen Computer Vision (YOLOv8, DINO-GPT4V) and Advanced AI Governance Frameworks.
-- 🤝 **Collaboration Interest:** Open Source projects focused on **AI Security (LLM Guardrails)** or **Healthcare AI** innovation.
-  
+- 🤝 **Collaboration Interest:** Open Source projects focused on **AI Security** or **Healthcare AI** innovation.
+- 📧 **How to reach me:** [YOUR EMAIL HERE]
 
 ---
 
-## 🛠️ Tech Stack & Core Expertise
+## 🛠️ Core Technical Expertise
 
-### 🧠 AI/ML & Deep Learning
+### 👁️ Computer Vision & Deep Learning (DL)
+
+This specialized section highlights your skills in modern and classic CV.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,numpy,pandas,opencv,keras,huggingface,fastapi,jupyter&perline=10" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv,scikitlearn,numpy,matplotlib&perline=7" />
 </p>
-**Key Concepts:** Transformers, BERT, RAG Systems, Prompt Engineering, CNNs, LSTMs, Transfer Learning.
+**Key CV Skills:** Object Detection (YOLO), Image Augmentation, Pretrained Models (VGG16, ResNet), Image Segmentation, Transfer Learning.
 
-### 🛡️ Cybersecurity & Offensive Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,vscode&perline=5" /> 
-  </p>
-**Key Tools:** Kali Linux, Metasploit, Nmap, Wireshark, OWASP ZAP, SQLmap, Burp Suite.
-
-### 💻 Full-Stack & DevOps
+### 🤖 LLMs, GenAI & Data Science
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,typescript,postgres,mongodb,redis,aws,gcp,docker,kubernetes&perline=8" />
+  <img src="https://skillicons.dev/icons?i=huggingface,python,pandas,seaborn,firebase,supabase,vscode,jupyter&perline=8" />
 </p>
-**Backend:** NestJS, Node.js, Express.js | **Frontend:** Next.js, React.js, Tailwind CSS | **Database:** PostgreSQL, MongoDB, Redis.
+**Key GenAI Skills:** Hugging Face Transformers, LangChain, RAG Systems, BERT, Gemini API, Groq API, Ollama.
+
+### 💻 Full-Stack & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,typescript,js,express,fastapi,django,java,cs,html,css&perline=7" />
+</p>
+**Frameworks:** React.js, Next.js, Redux.js, NestJS, FastAPI | **Languages:** Python, JavaScript/TypeScript, Java.
+
+### 🔒 Cybersecurity & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,postgres,mongodb,redis,git,github,linux&perline=10" />
+</p>
+**Security Tools:** Kali Linux, Metasploit, Nmap, Wireshark, OWASP ZAP, SQLmap | **DB/Cloud:** PostgreSQL, MongoDB, AWS, Azure.
 
 ---
 
 ## 🏆 Featured Projects & Contributions
 
-* **VAPT Pipeline AI System:** Autonomous, 5-phase penetration testing pipeline using Groq-based agents, LangChain, and Kali Linux toolchains (Metasploit, Nmap).
-* **AI Governance & Secure Data Masking Framework:** An ongoing AI security initiative to intelligently detect, restructure, and anonymize sensitive data before LLM interaction, mitigating prompt injection risks.
+* **VAPT Pipeline AI System:** Developed and launched a 5-phase AI-based VAPT pipeline that uses LLM integration to automate vulnerability discovery and auto-exploitation.
+* **Offensive Security Expertise:** Applied deep knowledge of Red Team strategies and tools (Kali Linux, OSINT, Spyder) to conduct penetration testing, identifying and exploiting critical vulnerabilities, including SQL Injection and other web/network-level flaws.
 * **CYKRUIT Platform:** Full-stack recruitment platform (Next.js/NestJS) with AI-based job-role matching and integrated Automated AI Agents for job scraping.
 * **GSSOC '25 Mentor/Contributor:** Directed development of AI Telegram Bots, oversaw secure JWT authentication for FinTech apps, and optimized backend algorithms for scalable user tracking.
 
