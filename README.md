@@ -7,9 +7,9 @@
 ---
 
 ## 🌟 Profile Overview
-
 <p align="left">
   <img src="https://img.shields.io/badge/AI%2FML%20Engineer-Cybersecurity%20Focused-333333?style=for-the-badge&logo=python&logoColor=yellow&labelColor=222222" alt="AI/ML & Cybersecurity Engineer Badge"/>
+  <img src="https://img.shields.io/badge/Data%20Scientist-Analysis%20Focused-333333?style=for-the-badge&logo=jupyter&logoColor=orange&labelColor=222222" alt="Data Scientist Badge"/>
 </p>
 
 I'm a dynamic AI/ML Engineer and Data Science Specialist pursuing a B.Tech in Computer Science, with deep expertise in the complete lifecycle of Deep Learning and Machine Learning models. My background is uniquely complemented by a strong foundation in **Offensive Security (Red Teaming)** and robust **Full-Stack development (NextJS, NestJS)**, ensuring every solution is not only intelligent but also secure and scalable.
